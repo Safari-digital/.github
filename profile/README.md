@@ -1,10 +1,8 @@
-<!-- markdownlint-disable-next-line -->
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/SafariLib/.github/main/assets/logo.png" alt="SafariUI logo">
+    <img width="200" src="https://avatars.githubusercontent.com/u/133657211?s=500&v=4" alt="SafariUI logo">
 </p>
-<h1 align="center">SafariLib</h1>
+<h1 align="center">Safari-digital</h1>
 
-<!-- markdownlint-disable-next-line -->
 <p align="center">
-SafariLib is a collection of Web project boilerplates and tools.
+Safari-digital repositories.
 </p>
